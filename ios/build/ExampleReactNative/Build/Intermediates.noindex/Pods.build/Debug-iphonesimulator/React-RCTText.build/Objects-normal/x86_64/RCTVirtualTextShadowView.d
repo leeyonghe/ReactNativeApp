@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/lee/Desktop/ExampleReactNative/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTVirtualTextShadowView.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextShadowView.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextAttributes.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTTextTransform.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTShadowView+Layout.h \
+  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Headers/Public/React-Core/React/RCTRawTextShadowView.h
