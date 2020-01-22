@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/cli": "^3.0.4",
-    "mime": "^2.4.4",
+    "mem": ">=4.0.0",
     "react": "16.9.0",
     "react-native": "^0.61.5",
     "redux": "^4.0.5",
