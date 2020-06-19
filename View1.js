@@ -26,8 +26,9 @@ export default function View1(props) {
   const result = useContext(CoreContext);
 
   console.log(result.tag + ' View1 ');
+  console.log(result.tag + ' View1 ' + result.value);
 
-  const [refresh, setFresh] = useState(0);
+  const [backValue , SetbackValue] = useState(result.value);
 
   useEffect(() => {
     const focus = props.navigation.addListener('focus', async () => {
@@ -35,7 +36,7 @@ export default function View1(props) {
       console.log(
         '>>>>>>>>>>>>>>>>>>>>>>>>>>>> props ' + JSON.stringify(props),
       );
-      setFresh(100);
+      SetbackValue(result.value);
     });
     return focus;
   }, [props, props.navigation]);
@@ -50,11 +51,11 @@ export default function View1(props) {
             flex: 1,
             backgroundColor: '#828192',
           }}>
-          <Text>View1 : {value} </Text>
+          <Text>View1 : {backValue} </Text>
           <Button
             title="Next"
             onPress={() => {
-              SetValue(result.value + 1);
+              SetValue(backValue + 1);
               navigation.navigate('View2');
             }}
           />
