@@ -22,11 +22,13 @@ import CoreProvider from './Core/CoreManagement';
 
 const App: () => React$Node = () => {
   return (
-    <>
+    <View>
+
       <CoreProvider>
         <Route />
       </CoreProvider>
-    </>
+
+    </View>
   );
 };
 

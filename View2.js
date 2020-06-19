@@ -35,7 +35,7 @@ export default function View2(props) {
       ( { value , SetValue } ) => (
         <View style={{alignItems:'center', justifyContent:'center', backgroundColor:'#828372'}}>
           <Text>This is the Value : {value}</Text>
-          <Button onPress={ () => {console.log('sdfsdflksdf')} }>Go Next</Button>
+          <Button title="Go Next" onPress={ () => {SetValue(3)} }/>
         </View>
       )
     }
