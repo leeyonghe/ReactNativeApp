@@ -41,6 +41,12 @@ export default function View1(props) {
     return focus;
   }, [props, props.navigation]);
 
+  /*
+  context 변화를 구독하는 React 컴포넌트입니다. 함수 컴포넌트안에서 context를 읽기 위해서 쓸 수 있습니다.
+  Context.Consumer의 자식은 함수여야합니다. 이 함수는 context의 현재값을 받고 React 노드를 반환합니다. 
+  이 함수가 받는 value 매개변수 값은 해당 context의 Provider 중 상위 트리에서 가장 가까운 Provider의 
+  value prop과 동일합니다. 상위에 Provider가 없다면 value 매개변수 값은 createContext()에 보냈던 defaultValue와 동일할 것입니다.
+  */
   return (
     <CoreConsumer>
       {({value, SetValue}) => (
