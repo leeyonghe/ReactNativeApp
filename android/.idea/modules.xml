@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactNativeApp.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactNativeApp.iml" group="ReactNativeApp" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ReactNativeApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1925485269/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1925485269/react-native-community_masked-view.iml" group="ReactNativeApp/react-native-community_masked-view" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-779384926/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-779384926/react-native-gesture-handler.iml" group="ReactNativeApp/react-native-gesture-handler" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1013235829/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1013235829/react-native-safe-area-context.iml" group="ReactNativeApp/react-native-safe-area-context" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1161068189/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-1161068189/react-native-screens.iml" group="ReactNativeApp/react-native-screens" />

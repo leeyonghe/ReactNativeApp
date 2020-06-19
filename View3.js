@@ -9,7 +9,6 @@ import {
   Image,
   ActivityIndicator
 } from 'react-native';
-import AppServer from '../Core/AppServer';
 
 import { CoreContext, CoreConsumer } from './Core/CoreManagement';
 
@@ -33,9 +32,10 @@ export default function View3(props) {
   return (
     <CoreConsumer>
     {
-      ( { value } ) => (
-        <View>
+      ( { value , SetValue } ) => (
+        <View style={{alignItems:'center', justifyContent:'center', backgroundColor:'#828372'}}>
           <Text>This is the Value : {value}</Text>
+          <Button onPress={ () => {console.log('sdfsdflksdf')} }>Go Next</Button>
         </View>
       )
     }

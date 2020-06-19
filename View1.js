@@ -10,8 +10,6 @@ import {
   ActivityIndicator,
   Button
 } from 'react-native';
-import AppServer from '../Core/AppServer';
-
 import { CoreContext, CoreConsumer } from './Core/CoreManagement';
 
 export default function View1(props) {
