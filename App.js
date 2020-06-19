@@ -7,29 +7,21 @@
  */
 
 import React from 'react';
-import {
-  SafeAreaView,
-  StyleSheet,
-  ScrollView,
-  View,
-  Text,
-  StatusBar,
-} from 'react-native';
-
-import Route from './Route';
 
 import CoreProvider from './Core/CoreManagement';
 
+import RouteGroup from './Screens/RouteGroup';
+
 const App: () => React$Node = () => {
+  
   return (
-    <View>
-
+    <>
       <CoreProvider>
-        <Route />
+        <RouteGroup />
       </CoreProvider>
-
-    </View>
+    </>
   );
+  
 };
 
 export default App;

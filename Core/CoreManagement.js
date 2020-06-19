@@ -1,7 +1,7 @@
 import React, { Component, createContext, useContext } from 'react';
 
 const CC = createContext({
-  value: '',
+  value: 0,
   tag : '',
   SetValue: () => {},
 });
