@@ -1,3 +1,0 @@
-dependencies: \
-  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Target\ Support\ Files/React-cxxreact/React-cxxreact-dummy.m \
-  /Users/lee/Desktop/ExampleReactNative/ios/Pods/Target\ Support\ Files/React-cxxreact/React-cxxreact-prefix.pch
