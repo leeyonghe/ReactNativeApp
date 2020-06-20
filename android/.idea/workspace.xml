@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0cc71367-2be8-4cac-be24-a20b6c3a4409" name="Default Changelist" comment="" />
+    <list default="true" id="0cc71367-2be8-4cac-be24-a20b6c3a4409" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1013235829/react-native-safe-area-context.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1013235829/react-native-safe-area-context.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/-1161068189/react-native-screens.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/-1161068189/react-native-screens.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
