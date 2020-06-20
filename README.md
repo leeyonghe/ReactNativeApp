@@ -1,6 +1,6 @@
 # ExampleReactNative
 - 자세한 설명은 tistory를 참고하세요 <br>
-  * 
+  * https://lee-it-alls.tistory.com/12
 - 동영상 <br>
   <img src="./ScreenShot/movie.gif" width="300px">
 - 참고서적 <br>
